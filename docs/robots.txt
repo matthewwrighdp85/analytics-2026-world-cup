@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matthewwrighdp85.github.io/analytics-2026-world-cup/sitemap.xml
